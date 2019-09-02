@@ -10,23 +10,26 @@ const refreshRecords = (filter) => {
 
 	const filtered_questions = questions.filter(({ question }) => (new RegExp(filter, 'i')).test(question));
 	count = filtered_questions.length;
-	total.innerHTML = `Всего ${count} вопросов.`;
+	total.innerHTML = `${filtered_questions.length} / ${questions.length}`;
 
 	filtered_questions.forEach(({ id, question, answer }, i) => {
 		const div = document.createElement('div');
+		div.className = "question";
 		
 		const qwe = document.createElement('p');
-		qwe.innerHTML = question;
+		qwe.innerHTML = `${id+1}. ${question}`;
+		qwe.className = "question-text";
 		
 		const ans = document.createElement('p');
 		ans.innerHTML = answer;
+		ans.className = "question-answer";
 
 		div.appendChild(qwe);
 		div.appendChild(ans);
 
 		container.appendChild(div);
 	});
-}
+};
 
 const handleChange = (target) => {
 	filter = target.value;

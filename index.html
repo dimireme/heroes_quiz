@@ -7,8 +7,10 @@
 </head>
 <body>
     <div class="content">
-        <input id="filter" type="text" placeholder="вопрос..." oninput="handleChange(this)" />
-        <span id="total"></span>
+        <div class="head">
+            <input id="filter" type="text" placeholder="вопрос..." oninput="handleChange(this)" />
+            <span id="total"></span>
+        </div>
         <div id="answers" class="answers"></div>
     </div>
     <script src="questions_pretty.json"></script>
