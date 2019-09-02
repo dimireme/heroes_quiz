@@ -390,18 +390,13 @@ questions = [
         "answer":"Вечная мерзлота"
     },
     {
-        "id":78,
-        "question":"Какому племени принадлежит Джу?",
-        "answer":"Зараккар"
-    },
-    {
         "id":79,
         "question":"Каким образом нельзя получить бронзовый трофей войны гильдий?",
         "answer":"Награда в экспедиции"
     },
     {
         "id":80,
-        "question":"Как называется этот артефакт? <img class=\"alignnone wp-image-601\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/109-min.jpg\" alt=\"\" width=\"50\" height=\"58\" />?",
+        "question":"Как называется этот артефакт <img class=\"alignnone wp-image-601\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/109-min.jpg\" alt=\"\" width=\"50\" height=\"58\" />?",
         "answer":"Посох возрождения"
     },
     {
@@ -412,7 +407,7 @@ questions = [
     {
         "id":82,
         "question":"Какой Артефакт принадлежит Пеппи?",
-        "answer":"Кольцо интеллекта"
+        "answer":"Кольцо интеллекта<br />Подружка-вертушка<br />Манускрипт пустоты"
     },
     {
         "id":83,
@@ -446,7 +441,7 @@ questions = [
     },
     {
         "id":89,
-        "question":"Какому герою принадлежит этот артефакт? <img class=\"alignnone wp-image-617\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/113-min.jpg\" alt=\"Артефакт у Маркуса в игре Хроники хаоса\" width=\"50\" height=\"49\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/113-min.jpg 78w, http://morevokne.ru/wp-content/uploads/2018/03/113-min-75x75.jpg 75w\" sizes=\"(max-width: 50px) 100vw, 50px\" />?",
+        "question":"Какому герою принадлежит этот артефакт <img class=\"alignnone wp-image-617\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/113-min.jpg\" alt=\"Артефакт у Маркуса в игре Хроники хаоса\" width=\"50\" height=\"49\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/113-min.jpg 78w, http://morevokne.ru/wp-content/uploads/2018/03/113-min-75x75.jpg 75w\" sizes=\"(max-width: 50px) 100vw, 50px\" />?",
         "answer":"Маркус"
     },
     {
@@ -521,8 +516,8 @@ questions = [
     },
     {
         "id":104,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-638\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/119-min.jpg\" alt=\"Руфис герой игры Хроники хаоса\" width=\"50\" height=\"47\" /> Руфус?",
-        "answer":"Кольцо силы"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-638\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/119-min.jpg\" alt=\"Руфис герой игры Хроники хаоса\" width=\"50\" height=\"47\" /> (Руфус)?",
+        "answer":"Кольцо силы<br />Щит Ракаши"
     },
     {
         "id":105,
@@ -567,7 +562,7 @@ questions = [
     {
         "id":113,
         "question":"Какой артефакт принадлежит этому герою (Карх)?",
-        "answer":"Фолиант алхимика"
+        "answer":"Фолиант алхимика<br />Сущность Карха<br />Кольцо ловкости"
     },
     {
         "id":114,
@@ -606,8 +601,8 @@ questions = [
     },
     {
         "id":121,
-        "question":"Какой артефакт принадлежит этому герою (Тея)?",
-        "answer":"Посох возрождения"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-3788\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-2.jpg\" alt=\"Тея Хроники Хаоса\" width=\"50\" height=\"49\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/1-2.jpg 80w, http://morevokne.ru/wp-content/uploads/2018/03/1-2-75x75.jpg 75w\" sizes=\"(max-width: 50px) 100vw, 50px\" /> (Тея)?",
+        "answer":"Посох возрождения<br />Том тайного знания<br />Кольцо интеллекта"
     },
     {
         "id":122,
@@ -676,8 +671,8 @@ questions = [
     },
     {
         "id":135,
-        "question":"Какой артефакт принадлежит этому герою (Эльмир)?",
-        "answer":"Кольцо ловкости"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-1998\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/645-13.jpg\" alt=\"Герой Эльмир, игра Хроники Хаоса\" width=\"50\" height=\"50\" /> (Эльмир)?",
+        "answer":"Кольцо ловкости<br />Клинки множества истин<br />Фолиант алхимика"
     },
     {
         "id":136,
@@ -686,8 +681,8 @@ questions = [
     },
     {
         "id":137,
-        "question":"Какой артефакт принадлежит этому герою (Безликий)?",
-        "answer":"Кольцо интеллекта"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-2016\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/338-7.jpg\" alt=\"Герой Безликий, игра Хроники Хаоса\" width=\"50\" height=\"51\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/338-7.jpg 86w, http://morevokne.ru/wp-content/uploads/2018/03/338-7-75x75.jpg 75w\" sizes=\"(max-width: 50px) 100vw, 50px\" /> (Безликий)?",
+        "answer":"Кольцо интеллекта<br />Покров отшельника<br />Манускрипт пустоты"
     },
     {
         "id":138,
@@ -702,12 +697,12 @@ questions = [
     {
         "id":140,
         "question":"Какой артефакт принадлежит этому герою (Темная звезда)?",
-        "answer":"Кольцо ловкости"
+        "answer":"Кольцо ловкости<br />Плач Арелона<br />Фолиант алхимика"
     },
     {
         "id":141,
         "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-full wp-image-3854\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-29.jpg\" alt=\"Лютер герой игры Хроники Хаоса\" width=\"50\" height=\"48\" /> (Лютер)?",
-        "answer":"Кольцо силы"
+        "answer":"Кольцо силы<br />Молот праведного суда"
     },
     {
         "id":142,
@@ -726,8 +721,8 @@ questions = [
     },
     {
         "id":145,
-        "question":"Какой артефакт принадлежит этому герою (Кира)?",
-        "answer":"Кольцо ловкости"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-1990\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/645-9.jpg\" alt=\"Герой Кира, игра Хроники Хаоса\" width=\"50\" height=\"50\" /> (Кира)?",
+        "answer":"Кольцо ловкости<br />Лезвия Октавианы<br />Фолиант Алхимика"
     },
     {
         "id":146,
@@ -1291,17 +1286,12 @@ questions = [
     },
     {
         "id":258,
-        "question":"Какой артефакт принадлежит этому герою (Судья)?",
-        "answer":"Том Тайного Знания"
-    },
-    {
-        "id":259,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-full wp-image-5930\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-16.jpg\" alt=\"Судья хроники хаоса\" width=\"75\" height=\"75\" /> (Судья)?",
-        "answer":"Карта Бесконечных Звезд"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-full wp-image-5930\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-16.jpg\" alt=\"Судья хроники хаоса\" width=\"50\" height=\"50\" /> (Судья)?",
+        "answer":"Том Тайного Знания<br />Карта бесконечных звезд<br />Кольцо интеллекта"
     },
     {
         "id":260,
-        "question":"Какой дреммер был мастером артефактов стихии Огна?",
+        "question":"Какой демон был мастером артефактов стихии Огня?",
         "answer":"Рагни"
     },
     {
@@ -1322,7 +1312,7 @@ questions = [
     {
         "id":264,
         "question":"Какой артефакт принадлежит этому герою (Джинжер)?",
-        "answer":"Кодекс воина"
+        "answer":"Нобль Мк.2<br />Фолиант Алхимика<br />Кольцо ловкости"
     },
     {
         "id":265,
@@ -1370,11 +1360,6 @@ questions = [
         "answer":"Моджо"
     },
     {
-        "id":274,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-1971\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/645.jpg\" alt=\"\" width=\"50\" height=\"48\" /> Руфус?",
-        "answer":"Щит Ракаши"
-    },
-    {
         "id":275,
         "question":"Как выглядит иконка умения солнечный ветер?",
         "answer":"<img class=\"alignnone wp-image-1973\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/645-1.jpg\" alt=\"Умение Солнечный ветер, игра Хроники Хаоса\" width=\"50\" height=\"47\" />"
@@ -1400,11 +1385,6 @@ questions = [
         "answer":"<img class=\"alignnone wp-image-1981\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/645-5.jpg\" alt=\"Умение кристалл Селиаса, игра Хроники Хаоса\" width=\"50\" height=\"48\" />"
     },
     {
-        "id":280,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-2016\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/338-7.jpg\" alt=\"Герой Безликий, игра Хроники Хаоса\" width=\"50\" height=\"51\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/338-7.jpg 86w, http://morevokne.ru/wp-content/uploads/2018/03/338-7-75x75.jpg 75w\" sizes=\"(max-width: 50px) 100vw, 50px\" /> Безликий?",
-        "answer":"Покров отшельника"
-    },
-    {
         "id":281,
         "question":"Какому герою принадлежит этот артефакт <img class=\"alignnone wp-image-1984\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/645-6.jpg\" alt=\"Артефакт Зири, игра Хроники Хаоса\" width=\"50\" height=\"51\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/645-6.jpg 76w, http://morevokne.ru/wp-content/uploads/2018/03/645-6-75x75.jpg 75w\" sizes=\"(max-width: 50px) 100vw, 50px\" />?",
         "answer":"Зири"
@@ -1420,29 +1400,14 @@ questions = [
         "answer":"Эльмир"
     },
     {
-        "id":284,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-1990\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/645-9.jpg\" alt=\"Герой Кира, игра Хроники Хаоса\" width=\"50\" height=\"48\" /> Кира?",
-        "answer":"Фолиант Алхимика"
-    },
-    {
         "id":285,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-1992\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/645-10.jpg\" alt=\"Герой Кай, игра Хроники Хаоса\" width=\"50\" height=\"47\" /> Кай?",
-        "answer":"Кольцо интеллекта"
-    },
-    {
-        "id":286,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-1994\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/645-11.jpg\" alt=\"Герой Лютер, игра Хроники Хаоса\" width=\"50\" height=\"50\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/645-11.jpg 80w, http://morevokne.ru/wp-content/uploads/2018/03/645-11-75x75.jpg 75w\" sizes=\"(max-width: 50px) 100vw, 50px\" /> Лютер?",
-        "answer":"Молот праведного суда"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-1992\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/645-10.jpg\" alt=\"Герой Кай, игра Хроники Хаоса\" width=\"50\" height=\"47\" /> (Кай)?",
+        "answer":"Кольцо интеллекта<br />Мантия скитальца<br />Манускрипт пустоты"
     },
     {
         "id":287,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-1996\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/645-12.jpg\" alt=\"Герой Арахна, игра Хроники Хаоса\" width=\"50\" height=\"46\" /> Арахна?",
-        "answer":"Дрон-отшельник"
-    },
-    {
-        "id":288,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-1998\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/645-13.jpg\" alt=\"Герой Эльмир, игра Хроники Хаоса\" width=\"50\" height=\"46\" /> Эльмир?",
-        "answer":"Фолиант алхимика"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-1996\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/645-12.jpg\" alt=\"Герой Арахна, игра Хроники Хаоса\" width=\"50\" height=\"50\" /> Арахна?",
+        "answer":"Дрон-отшельник<br />Завет защитника<br />Кольцо ловкости"
     },
     {
         "id":289,
@@ -1471,13 +1436,13 @@ questions = [
     },
     {
         "id":294,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-2010\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/338-4.jpg\" alt=\"Кольцо интеллекта. Игра Хроники Хаоса\" width=\"50\" height=\"49\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/338-4.jpg 78w, http://morevokne.ru/wp-content/uploads/2018/03/338-4-75x75.jpg 75w\" sizes=\"(max-width: 50px) 100vw, 50px\" /> Ларс?",
-        "answer":"Кольцо интеллекта"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-2010\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/338-4.jpg\" alt=\"Кольцо интеллекта. Игра Хроники Хаоса\" width=\"50\" height=\"49\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/338-4.jpg 78w, http://morevokne.ru/wp-content/uploads/2018/03/338-4-75x75.jpg 75w\" sizes=\"(max-width: 50px) 100vw, 50px\" /> (Ларс)?",
+        "answer":"Кольцо интеллекта<br />Грозовой оберег<br />Манускрипт пустоты"
     },
     {
         "id":295,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-2020\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/338-9.jpg\" alt=\"Герой Дориан, игра Хроники Хаоса\" width=\"50\" height=\"50\" /> Дориан?",
-        "answer":"Кольцо интеллекта"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-2020\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/338-9.jpg\" alt=\"Герой Дориан, игра Хроники Хаоса\" width=\"50\" height=\"50\" /> (Дориан)?",
+        "answer":"Кольцо интеллекта<br />Кровоточащая сталь<br />Том тайного знания"
     },
     {
         "id":296,
@@ -1486,8 +1451,8 @@ questions = [
     },
     {
         "id":297,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-2014\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/338-6.jpg\" alt=\"Герой Аврора, игра Хроники Хаоса\" width=\"50\" height=\"46\" /> Аврора?",
-        "answer":"Наследство Селиаса"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-2014\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/338-6.jpg\" alt=\"Герой Аврора, игра Хроники Хаоса\" width=\"50\" height=\"46\" /> (Аврора)?",
+        "answer":"Наследство Селиаса<br />Книга иллюзий<br />Кольцо силы"
     },
     {
         "id":298,
@@ -1496,8 +1461,8 @@ questions = [
     },
     {
         "id":299,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-2022\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/338-10.jpg\" alt=\"Герой Астрид и Лукас, игра Хроники Хаоса\" width=\"50\" height=\"50\" /> Астрид?",
-        "answer":"Кольцо ловкости"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-2022\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/338-10.jpg\" alt=\"Герой Астрид и Лукас, игра Хроники Хаоса\" width=\"50\" height=\"50\" /> (Астрид и Лукас)?",
+        "answer":"Кольцо ловкости<br />Мушкет принцессы<br />Фолиант алхимика"
     },
     {
         "id":300,
@@ -1941,8 +1906,8 @@ questions = [
     },
     {
         "id":388,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-full wp-image-3850\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-26.jpg\" alt=\"Фокс герой игра Хроники Хаоса\" width=\"50\" height=\"50\" /> Фокс?",
-        "answer":"Шрапнельная пушка"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-full wp-image-3850\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-26.jpg\" alt=\"Фокс герой игра Хроники Хаоса\" width=\"50\" height=\"50\" /> (Фокс)?",
+        "answer":"Шрапнельная пушка<br />Кольцо ловкости<br />Фолиант алхимика"
     },
     {
         "id":389,
@@ -1961,8 +1926,8 @@ questions = [
     },
     {
         "id":392,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-full wp-image-3853\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-28.jpg\" alt=\"Астарот герой игры Хроники Хаоса\" width=\"50\" height=\"49\" /> Астарот?",
-        "answer":"Завет защитника"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-full wp-image-3853\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-28.jpg\" alt=\"Астарот герой игры Хроники Хаоса\" width=\"50\" height=\"49\" /> (Астарот)?",
+        "answer":"Завет защитника<br />Коса искупления<br />Кольцо силы"
     },
     {
         "id":393,
@@ -2026,8 +1991,8 @@ questions = [
     },
     {
         "id":405,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-full wp-image-3871\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-40.jpg\" alt=\"Исмаил Хроники Хаоса\" width=\"50\" height=\"48\" /> Исмаил?",
-        "answer":"Фолиант алхимика"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-full wp-image-3871\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-40.jpg\" alt=\"Исмаил Хроники Хаоса\" width=\"50\" height=\"48\" /> (Исмаил)?",
+        "answer":"Фолиант алхимика<br />Карта скрытого демона<br />Кольцо ловкости"
     },
     {
         "id":406,
@@ -2046,8 +2011,8 @@ questions = [
     },
     {
         "id":409,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-full wp-image-3876\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-44.jpg\" alt=\"Сатори Хроники Хаоса\" width=\"50\" height=\"46\" /> Сатори?",
-        "answer":"Кольцо интеллекта"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-full wp-image-3876\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-44.jpg\" alt=\"Сатори Хроники Хаоса\" width=\"50\" height=\"46\" /> (Сатори)?",
+        "answer":"Кольцо интеллекта<br />Веер черного лиса<br />Манускрипт пустоты"
     },
     {
         "id":410,
@@ -2082,17 +2047,12 @@ questions = [
     {
         "id":416,
         "question":"Какой артефакт принадлежит этому герою (Корнелиус)?",
-        "answer":"Том Тайного Знания"
+        "answer":"Том Тайного Знания<br />Посох архивариуса<br />Кольцо интеллекта"
     },
     {
         "id":417,
         "question":"Как выглядит иконка умения Опустошение?",
         "answer":"<img class=\"alignnone size-full wp-image-3883\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/02-5.jpg\" alt=\"Опустошение умение Астарота\" width=\"50\" height=\"51\" />"
-    },
-    {
-        "id":418,
-        "question":"Какой артефакт принадлежит этому герою (Тея)?",
-        "answer":"Кольцо интеллекта"
     },
     {
         "id":419,
@@ -2181,8 +2141,8 @@ questions = [
     },
     {
         "id":436,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-full wp-image-3907\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-59.jpg\" alt=\"Лилит герой Хроники Хаоса\" width=\"50\" height=\"49\" /> Лилит?",
-        "answer":"Манускрипт пустоты"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-full wp-image-3907\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-59.jpg\" alt=\"Лилит герой Хроники Хаоса\" width=\"50\" height=\"49\" /> (Лилит)?",
+        "answer":"Манускрипт пустоты<br />Дьявольский контракт<br />Кольцо силы"
     },
     {
         "id":437,
@@ -2236,7 +2196,7 @@ questions = [
     },
     {
         "id":447,
-        "question":"Как называется этот артефакт <img class=\"alignnone wp-image-5887 size-full\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3.jpg\" alt=\"Печать Защиты артефакт титанов игра Хроники Хаоса\" width=\"75\" height=\"75\" />?",
+        "question":"Как называется этот артефакт <img class=\"alignnone wp-image-5887 size-full\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3.jpg\" alt=\"Печать Защиты артефакт титанов игра Хроники Хаоса\" width=\"50\" height=\"50\" />?",
         "answer":"Печать Защиты"
     },
     {
@@ -2261,18 +2221,18 @@ questions = [
     },
     {
         "id":452,
-        "question":"Кому из героев принадлежит этот артефакт <img class=\"alignnone size-full wp-image-5891\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-1.jpg\" alt=\"Артефакт Арахны игра Хроники Хаоса\" width=\"78\" height=\"77\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/3-1.jpg 78w, http://morevokne.ru/wp-content/uploads/2018/03/3-1-75x75.jpg 75w\" sizes=\"(max-width: 78px) 100vw, 78px\" />?",
+        "question":"Кому из героев принадлежит этот артефакт <img class=\"alignnone size-full wp-image-5891\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-1.jpg\" alt=\"Артефакт Арахны игра Хроники Хаоса\" width=\"50\" height=\"50\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/3-1.jpg 78w, http://morevokne.ru/wp-content/uploads/2018/03/3-1-75x75.jpg 75w\" sizes=\"(max-width: 78px) 100vw, 78px\" />?",
         "answer":"Арахна"
     },
     {
         "id":453,
         "question":"Как выглядит артефакт титана под названием Круговерть Сиунгура?",
-        "answer":"<img class=\"alignnone size-full wp-image-5892\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-2.jpg\" alt=\"Артефакт Круговерть Сиунгура Хроники Хаоса\" width=\"74\" height=\"74\" />"
+        "answer":"<img class=\"alignnone size-full wp-image-5892\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-2.jpg\" alt=\"Артефакт Круговерть Сиунгура Хроники Хаоса\" width=\"50\" height=\"50\" />"
     },
     {
         "id":454,
         "question":"Как выглядит иконка умения Аннигилятор?",
-        "answer":"<img class=\"alignnone size-full wp-image-5894\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-3.jpg\" alt=\"Анигилятор Хроники Хаоса\" width=\"75\" height=\"77\" />"
+        "answer":"<img class=\"alignnone size-full wp-image-5894\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-3.jpg\" alt=\"Анигилятор Хроники Хаоса\" width=\"50\" height=\"50\" />"
     },
     {
         "id":455,
@@ -2281,13 +2241,13 @@ questions = [
     },
     {
         "id":456,
-        "question":"Как зовут этого героя <img class=\"alignnone size-full wp-image-5895\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-4.jpg\" alt=\"Гелиос Хроники Хаоса\" width=\"73\" height=\"73\" />?",
+        "question":"Как зовут этого героя <img class=\"alignnone size-full wp-image-5895\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-4.jpg\" alt=\"Гелиос Хроники Хаоса\" width=\"50\" height=\"50\" />?",
         "answer":"Гелиос"
     },
     {
         "id":457,
         "question":"Как выглядит предмет под названием Всевидец?",
-        "answer":"<img class=\"alignnone size-full wp-image-5896\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-5.jpg\" alt=\"Всевидец Хроники Хаоса\" width=\"74\" height=\"71\" />"
+        "answer":"<img class=\"alignnone size-full wp-image-5896\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-5.jpg\" alt=\"Всевидец Хроники Хаоса\" width=\"50\" height=\"50\" />"
     },
     {
         "id":458,
@@ -2306,7 +2266,7 @@ questions = [
     },
     {
         "id":461,
-        "question":"Как зовут этого героя <img class=\"alignnone size-full wp-image-5898\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-6.jpg\" alt=\"Андвари Хроники Хаоса\" width=\"75\" height=\"75\" />?",
+        "question":"Как зовут этого героя <img class=\"alignnone size-full wp-image-5898\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-6.jpg\" alt=\"Андвари Хроники Хаоса\" width=\"50\" height=\"50\" />?",
         "answer":"Андвари"
     },
     {
@@ -2321,7 +2281,7 @@ questions = [
     },
     {
         "id":464,
-        "question":"Как называется этот артефакт <img class=\"alignnone size-full wp-image-5900\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-7.jpg\" alt=\"Корона воды Хроники Хаоса\" width=\"80\" height=\"79\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/3-7.jpg 80w, http://morevokne.ru/wp-content/uploads/2018/03/3-7-75x75.jpg 75w\" sizes=\"(max-width: 80px) 100vw, 80px\" />?",
+        "question":"Как называется этот артефакт <img class=\"alignnone size-full wp-image-5900\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-7.jpg\" alt=\"Корона воды Хроники Хаоса\" width=\"80\" height=\"79\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/3-7.jpg 80w, http://morevokne.ru/wp-content/uploads/2018/03/3-7-75x75.jpg 75w\" sizes=\"(max-width: 80px) 100vw, 50px\" />?",
         "answer":"Корона воды"
     },
     {
@@ -2336,7 +2296,7 @@ questions = [
     },
     {
         "id":467,
-        "question":"Как называется этот артефакт <img class=\"alignnone size-full wp-image-5903\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-9.jpg\" alt=\"Злюка Коба Хроники Хаоса\" width=\"80\" height=\"76\" />?",
+        "question":"Как называется этот артефакт <img class=\"alignnone size-full wp-image-5903\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-9.jpg\" alt=\"Злюка Коба Хроники Хаоса\" width=\"50\" height=\"50\" />?",
         "answer":"Злюка Коба"
     },
     {
@@ -2362,7 +2322,7 @@ questions = [
     {
         "id":472,
         "question":"Как выглядит предмет под названием Жезл Упрямства?",
-        "answer":"<img class=\"alignnone size-full wp-image-5906\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-10.jpg\" alt=\"Жезл Упрямства Хроники Хаоса\" width=\"74\" height=\"75\" />"
+        "answer":"<img class=\"alignnone size-full wp-image-5906\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-10.jpg\" alt=\"Жезл Упрямства Хроники Хаоса\" width=\"50\" height=\"50\" />"
     },
     {
         "id":473,
@@ -2372,11 +2332,11 @@ questions = [
     {
         "id":474,
         "question":"Как выглядит портрет героя по имени Руфус?",
-        "answer":"<img class=\"alignnone size-full wp-image-5907\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-11.jpg\" alt=\"Руфус Хроники Хаоса\" width=\"74\" height=\"76\" />"
+        "answer":"<img class=\"alignnone size-full wp-image-5907\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-11.jpg\" alt=\"Руфус Хроники Хаоса\" width=\"50\" height=\"50\" />"
     },
     {
         "id":475,
-        "question":"Как называется умение с этой иконкой <img class=\"alignnone size-full wp-image-5909\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-12.jpg\" alt=\"Карающие стрелы Хроники Хаоса\" width=\"67\" height=\"66\" />?",
+        "question":"Как называется умение с этой иконкой <img class=\"alignnone size-full wp-image-5909\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-12.jpg\" alt=\"Карающие стрелы Хроники Хаоса\" width=\"50\" height=\"50\" />?",
         "answer":"Карающие стрелы"
     },
     {
@@ -2386,7 +2346,7 @@ questions = [
     },
     {
         "id":477,
-        "question":"Как называется этот предмет <img class=\"alignnone size-full wp-image-5916\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-65.jpg\" alt=\"Потерянное кольцо Хроники Хаоса\" width=\"75\" height=\"71\" />?",
+        "question":"Как называется этот предмет <img class=\"alignnone size-full wp-image-5916\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-65.jpg\" alt=\"Потерянное кольцо Хроники Хаоса\" width=\"50\" height=\"50\" />?",
         "answer":"Потерянное кольцо"
     },
     {
@@ -2396,7 +2356,7 @@ questions = [
     },
     {
         "id":479,
-        "question":"Как называется умение с этой иконкой <img class=\"alignnone size-full wp-image-5917\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-66.jpg\" alt=\"Мстительные души Хроники Хаоса\" width=\"75\" height=\"75\" />?",
+        "question":"Как называется умение с этой иконкой <img class=\"alignnone size-full wp-image-5917\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-66.jpg\" alt=\"Мстительные души Хроники Хаоса\" width=\"50\" height=\"50\" />?",
         "answer":"Мстительные души"
     },
     {
@@ -2406,7 +2366,7 @@ questions = [
     },
     {
         "id":481,
-        "question":"Какому герою принадлежит этот артефакт <img class=\"alignnone size-full wp-image-5918\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-67.jpg\" alt=\"\" width=\"75\" height=\"72\" />?",
+        "question":"Какому герою принадлежит этот артефакт <img class=\"alignnone size-full wp-image-5918\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/1-67.jpg\" alt=\"\" width=\"50\" height=\"50\" />?",
         "answer":"Лиэн"
     },
     {
@@ -2416,7 +2376,7 @@ questions = [
     },
     {
         "id":483,
-        "question":"Какому герою принадлежит этот артефакт <img class=\"alignnone size-full wp-image-5921\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-13.jpg\" alt=\"\" width=\"75\" height=\"80\" />?",
+        "question":"Какому герою принадлежит этот артефакт <img class=\"alignnone size-full wp-image-5921\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-13.jpg\" alt=\"\" width=\"50\" height=\"50\" />?",
         "answer":"Карх"
     },
     {
@@ -2426,23 +2386,23 @@ questions = [
     },
     {
         "id":485,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-thumbnail wp-image-2046\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/651-5-75x75.jpg\" alt=\"Орион герой игры Хроники Хаоса\" width=\"75\" height=\"75\" /> (Орион)? ",
-        "answer":"Манускрипт пустоты"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-2046\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/651-5.jpg\" alt=\"Орион герой игры Хроники Хаоса\" width=\"50\" height=\"47\" /> (Орион)? ",
+        "answer":"Манускрипт пустоты<br />Арсенал DD-901<br />Кольцо интеллекта"
     },
     {
         "id":486,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-thumbnail wp-image-5926\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-14-75x75.jpg\" alt=\"Данте герой Хроники Хаоса\" width=\"75\" height=\"75\" /> (Данте)?",
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-thumbnail wp-image-5926\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-14-75x75.jpg\" alt=\"Данте герой Хроники Хаоса\" width=\"50\" height=\"50\" /> (Данте)?",
         "answer":"Посох возрождения"
     },
     {
         "id":487,
-        "question":"Какому герою принадлежит этот артефакт <img class=\"alignnone size-thumbnail wp-image-5929\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-15-74x75.jpg\" alt=\"\" width=\"74\" height=\"75\" />?",
+        "question":"Какому герою принадлежит этот артефакт <img class=\"alignnone size-thumbnail wp-image-5929\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-15-74x75.jpg\" alt=\"\" width=\"50\" height=\"50\" />?",
         "answer":"Криста"
     },
     {
         "id":488,
         "question":"Как выглядит иконка умения Насмешка Ракаши?",
-        "answer":"<img class=\"alignnone size-full wp-image-5932\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-17.jpg\" alt=\"\" width=\"74\" height=\"74\" />"
+        "answer":"<img class=\"alignnone size-full wp-image-5932\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-17.jpg\" alt=\"\" width=\"50\" height=\"50\" />"
     },
     {
         "id":489,
@@ -2451,7 +2411,7 @@ questions = [
     },
     {
         "id":490,
-        "question":"Как называется этот артефакт <img class=\"alignnone size-full wp-image-5935\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-18.jpg\" alt=\"\" width=\"74\" height=\"70\" />?",
+        "question":"Как называется этот артефакт <img class=\"alignnone size-full wp-image-5935\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-18.jpg\" alt=\"\" width=\"50\" height=\"50\" />?",
         "answer":"Левый и правый"
     },
     {
@@ -2462,37 +2422,32 @@ questions = [
     {
         "id":492,
         "question":"Как выглядит артефакт титана под названием Браслеты Сиунгура ?",
-        "answer":"<img class=\"alignnone size-thumbnail wp-image-5937\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-19-75x72.jpg\" alt=\"Браслеты Сиунгура\" width=\"75\" height=\"72\" />"
+        "answer":"<img class=\"alignnone size-thumbnail wp-image-5937\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-19-75x72.jpg\" alt=\"Браслеты Сиунгура\" width=\"50\" height=\"50\" />"
     },
     {
         "id":493,
-        "question":"Как называется этот предмет <img class=\"alignnone size-thumbnail wp-image-5938\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-20-75x75.jpg\" alt=\"\" width=\"75\" height=\"75\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/3-20-75x75.jpg 75w, http://morevokne.ru/wp-content/uploads/2018/03/3-20.jpg 78w\" sizes=\"(max-width: 75px) 100vw, 75px\" />?",
+        "question":"Как называется этот предмет <img class=\"alignnone size-thumbnail wp-image-5938\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-20-75x75.jpg\" alt=\"\" width=\"50\" height=\"50\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/3-20-75x75.jpg 75w, http://morevokne.ru/wp-content/uploads/2018/03/3-20.jpg 78w\" sizes=\"(max-width: 75px) 100vw, 75px\" />?",
         "answer":"Пробудившаяся Сила"
     },
     {
         "id":494,
         "question":"Как выглядит иконка умения Руна подавления?",
-        "answer":"<img class=\"alignnone size-thumbnail wp-image-5939\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-21-75x72.jpg\" alt=\"Умение Руна подавления\" width=\"75\" height=\"72\" />"
+        "answer":"<img class=\"alignnone size-thumbnail wp-image-5939\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-21-75x72.jpg\" alt=\"Умение Руна подавления\" width=\"50\" height=\"50\" />"
     },
     {
         "id":495,
-        "question":"Как называется умение с этой иконкой <img class=\"alignnone size-full wp-image-5941\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-22.jpg\" alt=\"Иконка умения Контроль Хроники Хаоса\" width=\"74\" height=\"74\" />?",
+        "question":"Как называется умение с этой иконкой <img class=\"alignnone size-full wp-image-5941\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-22.jpg\" alt=\"Иконка умения Контроль Хроники Хаоса\" width=\"50\" height=\"50\" />?",
         "answer":"Контроль"
     },
     {
         "id":496,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-thumbnail wp-image-5943\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-23-74x75.jpg\" alt=\"Зири Хроники Хаоса\" width=\"74\" height=\"75\" /> (Зири)?",
-        "answer":"Жало Акреб Умми"
-    },
-    {
-        "id":497,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-thumbnail wp-image-5945\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-24-75x74.jpg\" alt=\"Фокс Хроники Хаоса\" width=\"75\" height=\"74\" /> (Фокс)?",
-        "answer":"Кольцо ловкости"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-thumbnail wp-image-5943\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-23-74x75.jpg\" alt=\"Зири Хроники Хаоса\" width=\"50\" height=\"50\" /> (Зири)?",
+        "answer":"Жало Акреб Умми<br />Завет защитника<br />Кольцо силы"
     },
     {
         "id":498,
         "question":"Как выглядит иконка умения Средоточение ненависти?",
-        "answer":"<img class=\"alignnone size-thumbnail wp-image-5947\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-25-75x75.jpg\" alt=\"Средоточение ненависти\" width=\"75\" height=\"75\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/3-25-75x75.jpg 75w, http://morevokne.ru/wp-content/uploads/2018/03/3-25.jpg 78w\" sizes=\"(max-width: 75px) 100vw, 75px\" />"
+        "answer":"<img class=\"alignnone size-thumbnail wp-image-5947\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-25-75x75.jpg\" alt=\"Средоточение ненависти\" width=\"50\" height=\"50\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/3-25-75x75.jpg 75w, http://morevokne.ru/wp-content/uploads/2018/03/3-25.jpg 78w\" sizes=\"(max-width: 75px) 100vw, 75px\" />"
     },
     {
         "id":499,
@@ -2512,12 +2467,12 @@ questions = [
     {
         "id":502,
         "question":"Как выглядит иконка умения Кристаллический Штурм?",
-        "answer":"<img class=\"alignnone size-thumbnail wp-image-5948\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-26-75x74.jpg\" alt=\"Кристаллический Штурм\" width=\"75\" height=\"74\" />"
+        "answer":"<img class=\"alignnone size-thumbnail wp-image-5948\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-26-75x74.jpg\" alt=\"Кристаллический Штурм\" width=\"50\" height=\"50\" />"
     },
     {
         "id":503,
         "question":"Как выглядит иконка умения Я заберу твою жизнь?",
-        "answer":"<img class=\"alignnone size-thumbnail wp-image-5952\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-27-75x73.jpg\" alt=\"Я заберу твою жизнь\" width=\"75\" height=\"73\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/3-27-75x73.jpg 75w, http://morevokne.ru/wp-content/uploads/2018/03/3-27.jpg 76w\" sizes=\"(max-width: 75px) 100vw, 75px\" />"
+        "answer":"<img class=\"alignnone size-thumbnail wp-image-5952\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-27-75x73.jpg\" alt=\"Я заберу твою жизнь\" width=\"50\" height=\"50\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/3-27-75x73.jpg 75w, http://morevokne.ru/wp-content/uploads/2018/03/3-27.jpg 76w\" sizes=\"(max-width: 75px) 100vw, 75px\" />"
     },
     {
         "id":504,
@@ -2530,14 +2485,9 @@ questions = [
         "answer":"<img class=\"alignnone size-thumbnail wp-image-5958\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/5-75x75.jpg\" alt=\"Открытое сердце Хроники Хаоса\" width=\"75\" height=\"75\" />"
     },
     {
-        "id":506,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-thumbnail wp-image-5960\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/5-1-75x75.jpg\" alt=\"Астрид и Лукас Хроники Хаоса\" width=\"75\" height=\"75\" /> (Астрид и Лукас)?",
-        "answer":"Кольцо Ловкости"
-    },
-    {
         "id":507,
         "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-full wp-image-5895\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/3-4.jpg\" alt=\"Гелиос Хроники Хаоса\" width=\"73\" height=\"73\" /> Гелиос?",
-        "answer":"Кольцо интеллекта"
+        "answer":"Кольцо интеллекта<br />Жезл тысячи солнц<br />Том тайного знания"
     },
     {
         "id":508,
@@ -2561,13 +2511,13 @@ questions = [
     },
     {
         "id":512,
-        "question":"Какому герою принадлежит этот артефакт <img class=\"alignnone size-thumbnail wp-image-5965\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/5-5-75x75.jpg\" alt=\"Артефакт Джета Хроники Хаоса\" width=\"75\" height=\"75\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/5-5-75x75.jpg 75w, http://morevokne.ru/wp-content/uploads/2018/03/5-5.jpg 77w\" sizes=\"(max-width: 75px) 100vw, 75px\" />?",
+        "question":"Какому герою принадлежит этот артефакт <img class=\"alignnone size-thumbnail wp-image-5965\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/5-5-75x75.jpg\" alt=\"Артефакт Джета Хроники Хаоса\" width=\"75\" height=\"75\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/5-5-75x75.jpg 75w, http://morevokne.ru/wp-content/uploads/2018/03/5-5.jpg 77w\" sizes=\"(max-width: 50px) 100vw, 50px\" />?",
         "answer":"Джет"
     },
     {
         "id":513,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-1852 size-thumbnail\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/639-75x75.jpg\" alt=\"Портрет Кристы, игра Хроники Хаоса\" width=\"75\" height=\"75\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/639-75x75.jpg 75w, http://morevokne.ru/wp-content/uploads/2018/03/639.jpg 94w\" sizes=\"(max-width: 75px) 100vw, 75px\" /> Криста?",
-        "answer":"Кольцо ловкости"
+        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone wp-image-1852 size-thumbnail\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/639-75x75.jpg\" alt=\"Портрет Кристы, игра Хроники Хаоса\" width=\"75\" height=\"75\" srcset=\"http://morevokne.ru/wp-content/uploads/2018/03/639-75x75.jpg 75w, http://morevokne.ru/wp-content/uploads/2018/03/639.jpg 94w\" sizes=\"(max-width: 50px) 100vw, 50px\" /> (Криста)?",
+        "answer":"Кольцо интеллекта<br />Цеп нетающей боли<br />Том тайного знания"
     },
     {
         "id":514,
@@ -2585,11 +2535,6 @@ questions = [
         "answer":"Завет защитника"
     },
     {
-        "id":517,
-        "question":"Какой артефакт принадлежит этому герою <img class=\"alignnone size-full wp-image-5968\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/5-8.jpg\" alt=\"Сатори Хроники Хаоса\" width=\"72\" height=\"71\" /> (Сатори)?",
-        "answer":"Манускрипт пустоты"
-    },
-    {
         "id":518,
         "question":"Как выглядит иконка умения Рука подавления?",
         "answer":"<img class=\"alignnone size-thumbnail wp-image-5969\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/5-9-73x75.jpg\" alt=\"Руна подавления Хроники Хаоса\" width=\"73\" height=\"75\" />"
@@ -2603,6 +2548,50 @@ questions = [
         "id":520,
         "question":"Как выглядит иконка умения Эликсир бодрости?",
         "answer":"<img class=\"alignnone size-full wp-image-5971\" src=\"http://morevokne.ru/wp-content/uploads/2018/03/5-11.jpg\" alt=\"\" width=\"74\" height=\"72\" />"
+    },
+    {
+        "id":521,
+        "question":"Сколько фонтанов на площади в небесном городе?",
+        "answer":"1"
+    },
+    {
+        "id":522,
+        "question":"Какого артефакта не существует?",
+        "answer":"Сущность Архидемона"
+    },
+    {
+        "id":523,
+        "question":"Сколько выстрелов делает Джинджер при помощи умения Свинцовая буря?",
+        "answer":"7"
+    },
+    {
+        "id":524,
+        "question":"Сколько рун в общей сложности получает каждый участник гильдии за максимум очков активности?",
+        "answer":"27"
+    },
+    {
+        "id":525,
+        "question":"Какой герой не является стрелком?",
+        "answer":"нет ответа"
+    },
+    {
+        "id":526,
+        "question":"Какой герой Умеет закапываться?",
+        "answer":"Скорее всего Зири"
+    },
+    {
+        "id":527,
+        "question":"Какой герой считает что его война никогда не кончится?",
+        "answer":"Небула"
+    },
+    {
+        "id":528,
+        "question":"Какой из этих героев не является танком?",
+        "answer":"Исмаил"
+    },
+    {
+        "id":529,
+        "question":"Какого артефакта не существует?",
+        "answer":"Мушкет охотницы<br />Топоры множества истин"
     }
-
 ]

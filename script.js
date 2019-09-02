@@ -36,5 +36,15 @@ const handleChange = (target) => {
 	refreshRecords(filter);
 };
 
+document.addEventListener('keydown', (event) => {
+	if (event.code == 'Escape') {
+		input.focus();
+		input.value = "";
+		window.scrollTo({ top: 0, behavior: "smooth"});
+		filter = "";
+		refreshRecords("");
+	}
+});
+
 refreshRecords("");
 
