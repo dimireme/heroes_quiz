@@ -1,8 +1,8 @@
 <script>
-    import Input from '/components/input.svelte';
-    import Total from '/components/total.svelte';
-    import Question from '/components/question.svelte';
     import list from '/constants/questions.json';
+    import Input from '/components/input.svelte';
+    import Counter from '/components/counter.svelte';
+    import Record from '/components/record.svelte';
 
     let search = '';
     let searchRef;
@@ -25,7 +25,7 @@
     const handleKeydown = (event) => {
         if (event.code === 'Escape') {
             searchRef.setFocus();
-            window.scrollTo({ top: 0, behavior: "smooth"});
+            window.scrollTo({ top: 0, behavior: "smooth"}); // TODO: doesn't work.
             search = '';
         }
     };
@@ -35,14 +35,14 @@
 
 <div class="questions__header">
 	<Input className="input" placeholder="вопрос..." on:input={handleInput} value={search} bind:this={searchRef} />
-	<Total {count} {total} />
+	<Counter {count} {total} />
 </div>
 
 <div class="info-message">ESC - очистить фильтр</div>
 
 <div id="answers" class="answers">
 	{#each filteredQuestions as item (item.id)}
-		<Question {item} />
+		<Record {item} />
 	{/each}
 </div>
 
