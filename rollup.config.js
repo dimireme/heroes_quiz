@@ -3,6 +3,8 @@ import resolve from 'rollup-plugin-node-resolve';
 import commonjs from 'rollup-plugin-commonjs';
 import livereload from 'rollup-plugin-livereload';
 import { terser } from 'rollup-plugin-terser';
+import rootImport from 'rollup-plugin-root-import';
+import json from 'rollup-plugin-json';
 
 const production = !process.env.ROLLUP_WATCH;
 
@@ -23,6 +25,22 @@ export default {
 			css: css => {
 				css.write('public/bundle.css');
 			}
+		}),
+		
+		rootImport({
+			root: `${__dirname}/src`,
+			useEntry: 'prepend',
+		}),
+		
+		json({
+			exclude: 'node_modules/**',
+			
+			// for tree-shaking, properties will be declared as
+			// variables, using either `var` or `const`
+			preferConst: true, // Default: false
+			
+			// ignores indent and generates the smallest code
+			compact: true, // Default: false
 		}),
 
 		// If you have external dependencies installed from
