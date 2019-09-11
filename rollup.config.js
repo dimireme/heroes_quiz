@@ -5,9 +5,10 @@ import livereload from 'rollup-plugin-livereload';
 import { terser } from 'rollup-plugin-terser';
 import rootImport from 'rollup-plugin-root-import';
 import json from 'rollup-plugin-json';
+import copy from 'rollup-plugin-copy';
 
 const production = !process.env.ROLLUP_WATCH;
-
+console.log('build: ', production);
 export default {
 	input: 'src/main.js',
 	output: {
@@ -60,7 +61,14 @@ export default {
 
 		// If we're building for production (npm run build
 		// instead of npm run dev), minify
-		production && terser()
+		production && terser(),
+		
+		// Copy app from public to docs folder
+		production && copy({
+			targets: [ { src: 'public/*', dest: 'docs' } ],
+			verbose: true,
+			hook: 'writeBundle',
+		})
 	],
 	watch: {
 		clearScreen: false
