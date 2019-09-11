@@ -6,6 +6,7 @@
 
     let search = '';
     let searchRef;
+    let headerRef;
 
 	$: filteredQuestions = list.filter(({ question, answers }) => {
 		const re = new RegExp(search, 'i');
@@ -15,9 +16,6 @@
 		);
 	});
 
-	$: count = filteredQuestions.length;
-	$: total = list.length;
-
     const handleInput = ({ detail }) => {
         search = detail.value;
 	};
@@ -25,29 +23,34 @@
     const handleKeydown = (event) => {
         if (event.code === 'Escape') {
             searchRef.setFocus();
-            window.scrollTo({ top: 0, behavior: "smooth"}); // TODO: doesn't work.
+            headerRef.scrollIntoView();
             search = '';
         }
     };
 </script>
 
+
+
 <svelte:window on:keydown={handleKeydown} />
 
-<div class="questions__header">
+<div class="questions__header" bind:this={headerRef} >
 	<Input className="input" placeholder="вопрос..." on:input={handleInput} value={search} bind:this={searchRef} />
-	<Counter {count} {total} />
+	<Counter count={filteredQuestions.length} total={list.length} />
 </div>
 
 <div class="info-message">ESC - очистить фильтр</div>
 
-<div id="answers" class="answers">
+<div class="answers">
 	{#each filteredQuestions as item (item.id)}
 		<Record {item} />
 	{/each}
 </div>
 
+
+
 <style>
 	.questions__header {
+		padding-top: 50px;
 		display: flex;
         align-items: center;
 	}

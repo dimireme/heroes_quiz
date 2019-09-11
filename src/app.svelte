@@ -10,6 +10,5 @@
     main {
         max-width: 640px;
         margin: 0 auto;
-        padding: 50px 0;
     }
 </style>
