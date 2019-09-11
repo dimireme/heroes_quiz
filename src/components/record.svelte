@@ -5,6 +5,8 @@
 	const { id, question, answers } = item;
 </script>
 
+
+
 <div class="container">
 	<div class="question">
         <span>{id+1}. {question.text}</span>
@@ -17,6 +19,8 @@
 		</div>
 	{/each}
 </div>
+
+
 
 <style>
     .container {
